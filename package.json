@@ -5,7 +5,7 @@
   "homepage": "https://Vita-Zinovieva.github.io/project-team-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /TeamSeven/"
+    "build": "parcel build src/*.html --public-url /project-team-js/"
   },
   "repository": {
     "type": "git",
